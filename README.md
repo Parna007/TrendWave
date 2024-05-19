@@ -1,2 +1,3 @@
 # TrendWave
-A blog wesite
+A blog wesite by parna Das
+
